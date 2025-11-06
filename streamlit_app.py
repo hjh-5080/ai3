@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts":["노무현 전직 대통령이고, 지금은 죽었습니다."],
-              "videos":[https://www.youtube.com/watch?v=gfxLwYI5uxQ]},
+              "videos":["https://www.youtube.com/watch?v=gfxLwYI5uxQ"]},
     labels[1]:{"texts":["윤석열은 전직 대통령이고, 현재는 탄핵당했어요."]},
     labels[2]:{"texts":["이재명은 현 대통령이고, 민주당입니다."]},
 }
