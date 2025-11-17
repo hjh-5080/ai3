@@ -81,7 +81,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "videos":["https://youtu.be/fjWT4FZPp14?feature=shared"]},
     labels[2]:{"texts":["이재명은 현 대통령이고, 민주당입니다."],
               "videos":["https://youtu.be/fjWT4FZPp14?feature=shared"],
-              "images":[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AAYQA9V2-EljtiW7Nh-GhfQBwAxdsNj0Sw&s]},
+              "images":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AAYQA9V2-EljtiW7Nh-GhfQBwAxdsNj0Sw&s"]},
 }
 
 # ======================
